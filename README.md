@@ -9,6 +9,7 @@ Este projeto é um sistema em desenvolvimento que tem como objetivo recomendar f
 * **Linguagem:** Python
 * **Bibliotecas:**
     * `pandas`: Utilizado para manipulação e análise dos dados do dataset de filmes.
+    * `scikit-learn`: Utilizado para vetorizar o código.
 * **Ambiente de Desenvolvimento:** Jupyter Notebook
 
 ## Estrutura do Projeto
