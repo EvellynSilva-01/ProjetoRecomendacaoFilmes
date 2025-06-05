@@ -1,0 +1,10 @@
+# Pastas de Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Arquivos temporarios e de cache
+*.pyc
+__pycache__/
+
+# Ambiente virtual
+venv/
+.venv/
