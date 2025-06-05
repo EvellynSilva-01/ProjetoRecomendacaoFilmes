@@ -8,8 +8,9 @@ Este projeto é um sistema em desenvolvimento que tem como objetivo recomendar f
 ## Tecnologias Utilizadas
 * **Linguagem:** Python
 * **Bibliotecas:**
-    * `pandas`: Utilizado para manipulação e análise dos dados do dataset de filmes.
-    * `scikit-learn`: Utilizado para vetorizar o código.
+    * `pandas`: manipulação de dados tabulares.
+    * `scikit-learn`: vetorizar textos e medir similaridade com `CountVectorizer` e `cosine_similarity`.
+    * `ast`: módulo nativo do Python usado para interpretar strings JSON-like (como os campos do dataset).
 * **Ambiente de Desenvolvimento:** Jupyter Notebook
 
 ## Estrutura do Projeto
