@@ -39,6 +39,8 @@ O dataset `tmdb_5000_credits.csv` e `tmdb_5000_movies.csv` foi obtido de uma fon
     ```
 5.  No navegador, abra o arquivo `Rec-Filmes.ipynb` e execute as células.
 
+*Observação:* Para que o arquivo `Rec-Filmes.ipynb` seja executado corretamente, é necessário que o dataset (`tmdb_5000_credits.csv`, `tmdb_5000_movies.csv`) esteja na mesma pasta que o código.
+
 ## Aprendizados e Desafios
 Durante o desenvolvimento deste projeto, estou consolidando conhecimentos em:
 * Lógica de programação em Python.
