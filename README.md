@@ -3,7 +3,7 @@
 Este projeto é um sistema em desenvolvimento que tem como objetivo recomendar filmes com base em um título fornecido pelo usuário. A ferramenta busca filmes similares utilizando dados de um dataset específico.
 
 ## Status do Projeto
-* **Em desenvolvimento:** O projeto está em fase de implementação e ajustes. Atualmente estou trabalhando na correção de erros e otimização do algoritmo de recomendação para melhorar a precisão das sugestões.
+* **Fase 1: Concluída:** A primeira parte do projeto está concluida. O projeto é capaz de sugerir filmes semelhantes ao informado pelo usuário. O Recomendador somente reconhece o filme escolhido quando digitado sem erros ortográficos.
 
 ## Tecnologias Utilizadas
 * **Linguagem:** Python
@@ -23,7 +23,7 @@ O dataset `tmdb_5000_credits.csv` e `tmdb_5000_movies.csv` foi obtido de uma fon
 *Observação:* Embora o autor original não esteja explicitamente identificado na fonte de download, o uso deste dataset foi fundamental para o desenvolvimento e aprendizado do projeto.
 
 
-## Como Rodar o Projeto (Instruções Atuais - Em Desenvolvimento)
+## Como Rodar o Projeto (Instruções Atuais)
 1.  **Pré-requisitos:** Certifique-se de ter o Python e o Jupyter Notebook instalados em seu ambiente.
 2.  **Clone este repositório:**
     ```bash
@@ -45,7 +45,7 @@ O dataset `tmdb_5000_credits.csv` e `tmdb_5000_movies.csv` foi obtido de uma fon
 Durante o desenvolvimento deste projeto, estou consolidando conhecimentos em:
 * Lógica de programação em Python.
 * Manipulação e limpeza de dados com a biblioteca `pandas`.
-* Implementação de algoritmos de recomendação (ainda em fase de refinamento).
+* Implementação de algoritmos de recomendação.
 * Gerenciamento de projetos com Git e GitHub.
 
 ## Contato
